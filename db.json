@@ -136,25 +136,26 @@
   ],
   "clients": [
     {
-      "clientid": "1",
+      "id": "1",
+      "cin":"jb520110",
       "first_name": "Oussama",
       "last_name": "Matboua",
       "phone": "0605776853",
       "email": "matboua@gmail.com",
-      "city": "Inezgane",
-      "id": "1"
+      "city": "Inezgane"
     },
     {
-      "clientid": "2",
+      "id": "2",
+      "cin": "jb100223",
       "first_name": "Amine",
       "last_name": "Jamali",
       "phone": "0502302255",
       "email": "oussamalolo@gmail.com",
-      "city": "Souira",
-      "id": "2"
+      "city": "Souira"      
     },
     {
       "id": "3",
+      "cin": "jc100223",
       "first_name": "Othman",
       "last_name": "Elhyane",
       "phone": "0601022331",
@@ -163,6 +164,7 @@
     },
     {
       "id": "4",
+      "cin": "cb100223",
       "first_name": "Yassine",
       "last_name": "Bennani",
       "phone": "0654789652",
@@ -171,6 +173,7 @@
     },
     {
       "id": "5",
+      "cin": "ec155563",
       "first_name": "Fatima",
       "last_name": "El Amrani",
       "phone": "0701122334",
