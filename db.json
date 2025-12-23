@@ -101,8 +101,8 @@
   "ingredients": [
   {
     "id": 1,
-    "name": "chicken breast",
-    "category": "meat",
+    "name": "Grilled Chicken Breast",
+    "category": "Base & Proteins",
     "price_per_unit": 45,
     "unit": "kg",
     "stock": 34.5,
@@ -111,103 +111,93 @@
   },
   {
     "id": 2,
-    "name": "long grain rice",
-    "category": "grain",
-    "price_per_unit": 10,
+    "name": "Romaine Lettuce",
+    "category": "Base & Proteins",
+    "price_per_unit": 12,
     "unit": "kg",
-    "stock": 120,
-    "image": "https://images.pexels.com/photos/1640776/pexels-photo-1640776.jpeg",
-    "nutrition_per_100g": { "calories": 130, "protein_g": 2.7, "carbs_g": 28, "fat_g": 0.3 }
-  },
-  {
-    "id": 3,
-    "name": "lettuce",
-    "category": "vegetable",
-    "price_per_unit": 6,
-    "unit": "bunch",
-    "stock": 65,
+    "stock": 40,
     "image": "https://images.pexels.com/photos/616399/pexels-photo-616399.jpeg",
     "nutrition_per_100g": { "calories": 15, "protein_g": 1.4, "carbs_g": 2.9, "fat_g": 0.2 }
   },
   {
-    "id": 4,
-    "name": "beef sirloin",
-    "category": "meat",
-    "price_per_unit": 120,
+    "id": 3,
+    "name": "Quinoa",
+    "category": "Base & Proteins",
+    "price_per_unit": 25,
     "unit": "kg",
-    "stock": 18.2,
-    "image": "https://images.pexels.com/photos/675951/pexels-photo-675951.jpeg",
-    "nutrition_per_100g": { "calories": 250, "protein_g": 26, "carbs_g": 0, "fat_g": 15 }
+    "stock": 50,
+    "image": "https://images.pexels.com/photos/4110251/pexels-photo-4110251.jpeg",
+    "nutrition_per_100g": { "calories": 120, "protein_g": 4.4, "carbs_g": 21, "fat_g": 1.9 }
+  },
+  {
+    "id": 4,
+    "name": "Balsamic Vinaigrette",
+    "category": "Dressings",
+    "price_per_unit": 35,
+    "unit": "liter",
+    "stock": 15,
+    "image": "https://images.pexels.com/photos/3371360/pexels-photo-3371360.jpeg",
+    "nutrition_per_100g": { "calories": 88, "protein_g": 0.5, "carbs_g": 17, "fat_g": 0 }
   },
   {
     "id": 5,
-    "name": "unsalted butter",
-    "category": "dairy",
-    "price_per_unit": 55,
-    "unit": "kg",
-    "stock": 10,
-    "image": "https://images.pexels.com/photos/39553/butter-food-fat-yellow-39553.jpeg",
-    "nutrition_per_100g": { "calories": 717, "protein_g": 0.9, "carbs_g": 0.1, "fat_g": 81 }
+    "name": "Extra Virgin Olive Oil",
+    "category": "Dressings",
+    "price_per_unit": 85,
+    "unit": "liter",
+    "stock": 20,
+    "image": "https://images.pexels.com/photos/1029344/pexels-photo-1029344.jpeg",
+    "nutrition_per_100g": { "calories": 884, "protein_g": 0, "carbs_g": 0, "fat_g": 100 }
   },
   {
     "id": 6,
-    "name": "tomato",
-    "category": "vegetable",
-    "price_per_unit": 8,
-    "unit": "kg",
-    "stock": 40,
-    "image": "https://images.pexels.com/photos/65174/pexels-photo-65174.jpeg",
-    "nutrition_per_100g": { "calories": 18, "protein_g": 0.9, "carbs_g": 3.9, "fat_g": 0.2 }
+    "name": "Fresh Parsley",
+    "category": "Fresh Herbs",
+    "price_per_unit": 5,
+    "unit": "bunch",
+    "stock": 100,
+    "image": "https://images.pexels.com/photos/1435904/pexels-photo-1435904.jpeg",
+    "nutrition_per_100g": { "calories": 36, "protein_g": 3, "carbs_g": 6, "fat_g": 0.8 }
   },
   {
     "id": 7,
-    "name": "cucumber",
-    "category": "vegetable",
+    "name": "Fresh Mint",
+    "category": "Fresh Herbs",
     "price_per_unit": 5,
-    "unit": "kg",
-    "stock": 52.5,
-    "image": "https://images.pexels.com/photos/2329440/pexels-photo-2329440.jpeg",
-    "nutrition_per_100g": { "calories": 16, "protein_g": 0.7, "carbs_g": 3.6, "fat_g": 0.1 }
-  },
-  {
-    "id": 8,
-    "name": "dark chocolate",
-    "category": "baking",
-    "price_per_unit": 90,
-    "unit": "kg",
-    "stock": 7,
-    "image": "https://images.pexels.com/photos/302680/pexels-photo-302680.jpeg",
-    "nutrition_per_100g": { "calories": 600, "protein_g": 7.8, "carbs_g": 45, "fat_g": 43 }
-  },
-  {
-    "id": 9,
-    "name": "heavy cream",
-    "category": "dairy",
-    "price_per_unit": 40,
-    "unit": "liter",
-    "stock": 25,
-    "image": "https://images.pexels.com/photos/594590/pexels-photo-594590.jpeg",
-    "nutrition_per_100g": { "calories": 340, "protein_g": 2.1, "carbs_g": 3, "fat_g": 36 }
-  },
-  {
-    "id": 10,
-    "name": "fresh mint",
-    "category": "herb",
-    "price_per_unit": 20,
     "unit": "bunch",
-    "stock": 30,
+    "stock": 80,
     "image": "https://images.pexels.com/photos/906150/pexels-photo-906150.jpeg",
     "nutrition_per_100g": { "calories": 70, "protein_g": 3.8, "carbs_g": 14.9, "fat_g": 0.9 }
   },
   {
-    "id": 11,
-    "name": "white sugar",
-    "category": "pantry",
-    "price_per_unit": 6.5,
+    "id": 8,
+    "name": "Feta Cheese",
+    "category": "Extras & Spices",
+    "price_per_unit": 65,
     "unit": "kg",
+    "stock": 12,
+    "image": "https://images.pexels.com/photos/4197910/pexels-photo-4197910.jpeg",
+    "nutrition_per_100g": { "calories": 264, "protein_g": 14, "carbs_g": 4, "fat_g": 21 }
+  },
+  {
+    "id": 9,
+    "name": "Walnuts",
+    "category": "Extras & Spices",
+    "price_per_unit": 110,
+    "unit": "kg",
+    "stock": 8,
+    "image": "https://images.pexels.com/photos/414640/pexels-photo-414640.jpeg",
+    "nutrition_per_100g": { "calories": 654, "protein_g": 15, "carbs_g": 14, "fat_g": 65 }
+  },
+  {
+    "id": 10,
+    "name": "Black Pepper",
+    "category": "Extras & Spices",
+    "price_per_unit": 2,
+    "unit": "bunch",
     "stock": 200,
-    "image": "https://images.pexels.com/photos/39553/sugar-white-food-sweet-39553.jpeg",
-    "nutrition_per_100g": { "calories": 387, "protein_g": 0, "carbs_g": 100, "fat_g": 0 }
+    "image": "https://images.pexels.com/photos/2802527/pexels-photo-2802527.jpeg",
+    "nutrition_per_100g": { "calories": 251, "protein_g": 10, "carbs_g": 64, "fat_g": 3 }
   }
 ],
 
