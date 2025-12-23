@@ -1,4 +1,12 @@
 {
+  "admin": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "email": "admin@darek.com",
+      "password": "Admin123!"
+    }
+  ],
   "clients": [
     {
       "id": 1,
