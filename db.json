@@ -211,74 +211,74 @@
   }
 ],
 
-"salads": [
-  {
-    "id": 1,
-    "name": "grilled chicken bowl",
-    "category": "main",
-    "class": "standard",
-    "price": 75,
-    "status": "available",
-    "image": "https://images.pexels.com/photos/2116090/pexels-photo-2116090.jpeg",
-    "ingredients": [1, 2, 3],
-    "calories": 550
-  },
-  {
-    "id": 2,
-    "name": "beef steak",
-    "category": "main",
-    "class": "premium",
-    "price": 150,
-    "status": "available",
-    "image": "https://images.pexels.com/photos/6109110/pexels-photo-6109110.jpeg",
-    "ingredients": [4, 5],
-    "calories": 820
-  },
-  {
-    "id": 3,
-    "name": "vegan salad",
-    "category": "salads",
-    "class": "economy",
-    "price": 45,
-    "status": "available",
-    "image": "https://images.pexels.com/photos/2116096/pexels-photo-2116096.jpeg",
-    "ingredients": [3, 6, 7],
-    "calories": 240
-  },
-  {
-    "id": 4,
-    "name": "chocolate mousse",
-    "category": "dessert",
-    "class": "standard",
-    "price": 30,
-    "status": "available",
-    "image": "https://images.pexels.com/photos/257816/pexels-photo-257816.jpeg",
-    "ingredients": [8, 9],
-    "calories": 420
-  },
-  {
-    "id": 5,
-    "name": "moroccan mint tea",
-    "category": "beverage",
-    "class": "economy",
-    "price": 12,
-    "status": "available",
-    "image": "https://images.pexels.com/photos/6109110/pexels-photo-6109110.jpeg",
-    "ingredients": [10, 11],
-    "calories": 45
-  },
-  {
-    "id": 6,
-    "name": "club sandwich",
-    "category": "main",
-    "class": "standard",
-    "price": 65,
-    "status": "available",
-    "image": "https://images.pexels.com/photos/3872370/pexels-photo-3872370.jpeg",
-    "ingredients": [1, 3, 6],
-    "calories": 610
-  }
-],
+  "salads": [
+    {
+      "id": 1,
+      "name": "grilled chicken bowl",
+      "category": "salads",
+      "class": "standard",
+      "price": 75,
+      "status": "available",
+      "image": "https://img.freepik.com/premium-photo/bowl-food-with-salad-vegetables-black-bowl-with-red-pepper_1308175-56558.jpg",
+      "ingredients": [1, 2, 3],
+      "calories": 550
+    },
+    {
+      "id": 2,
+      "name": "steak salad",
+      "category": "salads",
+      "class": "premium",
+      "price": 150,
+      "status": "available",
+      "image": "https://images.pexels.com/photos/6109110/pexels-photo-6109110.jpeg",
+      "ingredients": [4, 5],
+      "calories": 820
+    },
+    {
+      "id": 3,
+      "name": "vegan salad",
+      "category": "salads",
+      "class": "economy",
+      "price": 45,
+      "status": "available",
+      "image": "https://images.pexels.com/photos/2116096/pexels-photo-2116096.jpeg",
+      "ingredients": [3, 6, 7],
+      "calories": 240
+    },
+    {
+      "id": 4,
+      "name": "chocolate fruit salad",
+      "category": "salads",
+      "class": "standard",
+      "price": 30,
+      "status": "available",
+      "image": "https://images.pexels.com/photos/257816/pexels-photo-257816.jpeg",
+      "ingredients": [8, 9],
+      "calories": 420
+    },
+    {
+      "id": 5,
+      "name": "moroccan mint salad",
+      "category": "salads",
+      "class": "economy",
+      "price": 12,
+      "status": "available",
+      "image": "https://images.pexels.com/photos/6109110/pexels-photo-6109110.jpeg",
+      "ingredients": [10, 11],
+      "calories": 45
+    },
+    {
+      "id": 6,
+      "name": "club salad",
+      "category": "salads",
+      "class": "standard",
+      "price": 65,
+      "status": "available",
+      "image": "https://images.pexels.com/photos/3872370/pexels-photo-3872370.jpeg",
+      "ingredients": [1, 3, 6],
+      "calories": 610
+    }
+  ],
 
 
   "orders": [
