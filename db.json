@@ -445,10 +445,10 @@
     },
     {
       "id": 2,
-      "name": "steak salad",
+      "name": "vegan salad",
       "category": "salads",
       "class": "premium",
-      "price": 150,
+      "price": 15,
       "status": "available",
       "image": "https://images.pexels.com/photos/6109110/pexels-photo-6109110.jpeg",
       "ingredients": [4, 5],
@@ -456,7 +456,7 @@
     },
     {
       "id": 3,
-      "name": "vegan salad",
+      "name": "steak salad",
       "category": "salads",
       "class": "economy",
       "price": 45,
